@@ -1,0 +1,52 @@
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'cron': Command '['sudo', 'systemctl', 'restart', 'cron']' returned non-zero exit status 1.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'cron': Command '['sudo', 'systemctl', 'restart', 'cron']' returned non-zero exit status 1.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'cron': Command '['sudo', 'systemctl', 'restart', 'cron']' returned non-zero exit status 1.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'cron': Command '['sudo', 'systemctl', 'restart', 'cron']' returned non-zero exit status 1.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'cron': Command '['sudo', 'systemctl', 'restart', 'cron']' returned non-zero exit status 1.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+  File "/home/yaw/cron_jobs/manage_service.py", line 30
+    yaw ALL=(ALL) NOPASSWD: /bin/systemctl restart cron
+        ^^^
+SyntaxError: invalid syntax
+  File "/home/yaw/cron_jobs/manage_service.py", line 30
+    yaw ALL=(ALL) NOPASSWD: /bin/systemctl restart cron
+        ^^^
+SyntaxError: invalid syntax
+  File "/home/yaw/cron_jobs/manage_service.py", line 30
+    yaw ALL=(ALL) NOPASSWD: /bin/systemctl restart cron
+        ^^^
+SyntaxError: invalid syntax
+  File "/home/yaw/cron_jobs/manage_service.py", line 30
+    yaw ALL=(ALL) NOPASSWD: /bin/systemctl restart cron
+        ^^^
+SyntaxError: invalid syntax
+  File "/home/yaw/cron_jobs/manage_service.py", line 30
+    yaw ALL=(ALL) NOPASSWD: /bin/systemctl restart cron
+        ^^^
+SyntaxError: invalid syntax
+  File "/home/yaw/cron_jobs/manage_service.py", line 30
+    yaw ALL=(ALL) NOPASSWD: /bin/systemctl restart cron
+        ^^^
+SyntaxError: invalid syntax
+Service 'cron' restarted successfully.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+Service 'cron' restarted successfully.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+Service 'cron' restarted successfully.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
+Service 'cron' restarted successfully.
+Temporary folder '/home/yaw/temp_folder' cleared successfully.
