@@ -40,12 +40,12 @@ The script performs two main operations:
 3. Make the script executable (if necessary):
 
    ```bash
-   chmod +x service_cleanup.py
+   chmod +x manage_service.py
 
 4. Run the script with:
 
    ```bash
-   sudo python3 service_cleanup.py
+   sudo python3 manage_service.py
 
 ## Expected Output
 
